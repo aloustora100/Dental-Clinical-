@@ -1,0 +1,6 @@
+{
+  "name": "عيادات د. يوسف الشاذلي لطب الأسنان",
+  "description": "الموقع الرسمي لعيادات الدكتور يوسف الشاذلي لطب وتجميل الأسنان - بنها، مرصفا، سندنهور. احجز موعدك الآن.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
